@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/LBigentini/static/css/main.f855e6bc.css",
-    "main.js": "/LBigentini/static/js/main.99927cf8.js",
+    "main.css": "/LBigentini/static/css/main.a64bf779.css",
+    "main.js": "/LBigentini/static/js/main.19328f59.js",
     "static/js/453.1407b060.chunk.js": "/LBigentini/static/js/453.1407b060.chunk.js",
-    "static/media/logo.svg": "/LBigentini/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/findmafu1.png": "/LBigentini/static/media/findmafu1.e2f25601a0976d070629.png",
+    "static/media/cookie1.png": "/LBigentini/static/media/cookie1.b6e66e5efbcfe76edbbf.png",
+    "static/media/ballpit1.png": "/LBigentini/static/media/ballpit1.575f54ffe008b9821aad.png",
+    "static/media/mafuteru1.png": "/LBigentini/static/media/mafuteru1.5ba5205744be16573846.png",
+    "static/media/pieces1.png": "/LBigentini/static/media/pieces1.13b86ba225d6a31a3952.png",
+    "static/media/multiplayer1.png": "/LBigentini/static/media/multiplayer1.1f5f645d9b92e0583fda.png",
+    "static/media/monopoly1.png": "/LBigentini/static/media/monopoly1.a127b2e4e51a5a74ab8b.png",
+    "static/media/wave1.png": "/LBigentini/static/media/wave1.072342326895628c4862.png",
+    "static/media/TTT1.png": "/LBigentini/static/media/TTT1.1ff2f1f5c5da688e7e89.png",
+    "static/media/amongWeb1.png": "/LBigentini/static/media/amongWeb1.9e1b8a539834edd89c73.png",
+    "static/media/tetris1.png": "/LBigentini/static/media/tetris1.8e5359737969e567ea8e.png",
+    "static/media/avatar.png": "/LBigentini/static/media/avatar.9a94e4602f0c979036aa.png",
+    "static/media/Avenir-Medium.ttf": "/LBigentini/static/media/Avenir-Medium.a11c4a4fed4a9555d79c.ttf",
     "index.html": "/LBigentini/index.html",
-    "main.f855e6bc.css.map": "/LBigentini/static/css/main.f855e6bc.css.map",
-    "main.99927cf8.js.map": "/LBigentini/static/js/main.99927cf8.js.map",
+    "main.a64bf779.css.map": "/LBigentini/static/css/main.a64bf779.css.map",
+    "main.19328f59.js.map": "/LBigentini/static/js/main.19328f59.js.map",
     "453.1407b060.chunk.js.map": "/LBigentini/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.99927cf8.js"
+    "static/css/main.a64bf779.css",
+    "static/js/main.19328f59.js"
   ]
 }
