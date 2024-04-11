@@ -176,6 +176,15 @@ div{
   grid-template-columns: 35% 65%;
 }
 
+
+
+#About {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 .section1picture{
   display: grid;
   grid-template-rows: repeat(1,3);

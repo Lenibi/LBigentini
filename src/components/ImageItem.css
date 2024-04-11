@@ -1,0 +1,38 @@
+.image-item-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-title {
+  position: absolute;
+  top: 10px; 
+  left: 10px;
+  margin: 0;
+  color: white;
+  z-index: 1;
+}
+
+.art {
+  transition: filter 0.3s ease;
+  filter: brightness(55%); 
+}
+
+.art.darken {
+  filter: brightness(40%); 
+}
+
+
+.image-description {
+  position: absolute;
+  bottom: -100%; 
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5); 
+  color: white;
+  padding: 10px;
+  transition: bottom 0.2s ease;
+}
+
+.image-description.visible {
+  bottom: 0; 
+}

@@ -19,7 +19,7 @@ const BackgroundContainer = styled.div`
   z-index: -1;
   overflow: hidden; /* Hide overflow content from the gradient overlay */
 
-  /*filter: contrast(100%);*/
+  /* filter: contrast(100%);*/
   
   &::before {
     content: '';
@@ -28,24 +28,14 @@ const BackgroundContainer = styled.div`
     left: 0;
     width: 100%;
     height: 100%;
-    /*
-    background: 
-    linear-gradient(90deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.5) 75%, rgba(0, 0, 0, 0.5) 100%),
-    linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 25%, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.5) 75%, rgba(0, 0, 0, 0.5) 100%);
-    */
-   /*
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(0, 200, 200, 0.1)),
-    linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(0, 200, 200, 0.1)),
-    linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(0, 200, 200, 0.1));
-    */
+   
     
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 200, 200, 0))
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0))
     ;
     
     
-    /* Checkerboard pattern */
 
-    background-size: 100% 100%; /* Adjust size of the squares */
+    background-size: 100% 100%;
     z-index: 1;
   }
 `;
@@ -85,7 +75,7 @@ const Background = ({ mouseX, mouseY }) => {
 
   //  display: 'flex', justifyContent: 'center', alignItems: 'center', 
   return (
-    <div style={{width: '100vw', height: '100vh' }}>
+    <div style={{ position: 'fixed', top: 0, left: 0, width: '100%', height: '100%', pointerEvents: 'none' }}>
       <BackgroundContainer backgroundX={backgroundX} backgroundY={backgroundY}>
         <Trail mouseX={mouseX} mouseY={mouseY} trailWidth={200} trailHeight={5000} />
         <Trail mouseX={mouseX} mouseY={mouseY} trailWidth={5000} trailHeight={200} />

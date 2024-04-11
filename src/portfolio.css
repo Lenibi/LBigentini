@@ -1,3 +1,20 @@
+@font-face {
+  font-family: 'CustomFont';
+  /*src: url("./Avenir-Medium.ttf") format('truetype');*/
+  src: url("./Satoshi-Medium.otf") format('truetype');
+}
+body {
+  font-family: 'CustomFont', sans-serif;
+}
+
+:root {
+  --color1: #000000;
+  /*--color1: #30182e;*/
+  /*--color1: #331d34;*/
+  
+  /*--color1: #4b2944;*/
+  --color2: #1D2628;
+}
 
 /****** Screen reader text *******/
 .sr-only {
@@ -15,7 +32,7 @@
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     text-align: center;
-    background-color: #1D2628;
+    background-color: var(--color1);
     width: 100%;
     z-index: 1000;
     position: relative;
@@ -57,13 +74,28 @@
     /*border: red solid thin;*/
   }
   
+  .projectSection1 {
+    background-color: var(--color1);
+  }
+  
+  .space {
+    margin-top: 100px;
+  }
+  
+
+  .section1 {
+    z-index: 2; 
+  }
+
   .hero{
+    z-index: 1; 
     /*background-image: url(bg1.jpg);*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
     display: grid;
-    grid-template-columns: 35% 30% 35%;
+    /* grid-template-columns: 35% 30% 35%; */
+    margin-top: 35px;
   }
   
   .herocontainer{
@@ -77,7 +109,36 @@
      /*border: yellow solid thick;*/
     /*Used for testing purposes*/
   }
+  .section1 {
+    display: grid;
+    grid-template-columns: 35% 65%;
+    z-index: 1; 
+  }
   
+  .about {
+    /*background-color: #1D2628;*/
+    background-color: var(--color1);
+    display: grid;
+    grid-template-columns: 35% 65%;
+    z-index: 1; 
+    grid-column-start: 2;
+    align-items: center;
+    text-align: center;
+    line-height: 28px;
+    backdrop-filter: blur(5px);
+  }
+  .sectionBar
+  {
+ 
+    
+    
+    z-index: 1; 
+    
+    align-items: center;
+    text-align: center;
+    line-height: 28px;
+    backdrop-filter: blur(5px);
+  }
   .hero a{
     text-decoration: none;
     color: white;
@@ -111,6 +172,11 @@
     grid-template-columns: 20% 20% 20% 20% 20%;
     grid-template-rows: auto auto auto;
   }
+  .images2 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: auto auto auto;
+  }
   
   .art{
     width: 100%;
@@ -118,7 +184,7 @@
   }
   
   .art:hover{
-    background-color: #1D2628;
+    background-color: var(--color1);
     opacity: 0.7;
   }
   
@@ -154,6 +220,7 @@
     color: white;
     font-size: 30px;
     margin-left: 60px;
+    margin-right: 60px;
   }
   
   .section1text p{
@@ -168,7 +235,6 @@
     color: #9498B8;
     margin: 10px;
     height: 50px;
-    margin-left: 60px;
     padding-top: 10px;
     padding-bottom: 10px;
     font-family: Avenir;
@@ -372,3 +438,36 @@
     padding-top: 20px;
   }
   
+  #About {
+    scroll-margin-top: 200px; 
+  }
+  #WebDevelopment {
+    scroll-margin-top: 190px; 
+  }
+  #GameDevelopment {
+    scroll-margin-top: 110px; 
+  }
+
+  #Game1, 
+#Game2,
+#Game3,
+#Game4,
+#Game5,
+#Game6,
+#Game7,
+#Game8,
+#Game9,
+#Game10,
+#Game11,
+#Game12,
+#Game13,
+#Game14,
+#Game15,
+#Game16,
+#Game17,
+#Web1,
+#Web2,
+#Web3,
+#Web4 {
+    scroll-margin-top: 300px; 
+}
