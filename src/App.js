@@ -155,7 +155,7 @@ const App = () => {
         <a href="#GameDevelopment"><div className="rightline"><p>Game Development</p></div></a>
         <a href="#WebDevelopment"><div className="rightline"><p>Web Development</p></div></a>
         <a href="#About"><div className="rightline"><p>About</p></div></a>
-        <a href="https://drive.google.com/file/d/1n3P3d-HHHCmskEFfR9kw1_4F8H2vUrTJ/view?usp=drive_link"><div><p>Resume</p></div></a>
+        <a href="https://drive.google.com/file/d/1S257EoR5Pze4NxmDJ-F3PEKqSEinI9FY/view?usp=sharing"><div><p>Resume</p></div></a>
       </section>
 
       <section class="sectionBar">
@@ -796,7 +796,7 @@ Project 7 BMI Calculator: Drag the sliders to calculate bmi
         <a href="#GameDevelopment"><div className="rightline"><p>Game Development</p></div></a>
         <a href="#WebDevelopment"><div className="rightline"><p>Web Development</p></div></a>
         <a href="#About"><div className="rightline"><p>About</p></div></a>
-        <a href="https://drive.google.com/file/d/1n3P3d-HHHCmskEFfR9kw1_4F8H2vUrTJ/view?usp=drive_link"><div><p>Resume</p></div></a>
+        <a href="https://drive.google.com/file/d/1S257EoR5Pze4NxmDJ-F3PEKqSEinI9FY/view?usp=sharing"><div><p>Resume</p></div></a>
       </section>
       </footer>
       
