@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/LBigentini/static/css/main.a3e79378.css",
-    "main.js": "/LBigentini/static/js/main.16955d99.js",
+    "main.css": "/LBigentini/static/css/main.9393bcc4.css",
+    "main.js": "/LBigentini/static/js/main.d02f3738.js",
     "static/js/453.ace21015.chunk.js": "/LBigentini/static/js/453.ace21015.chunk.js",
     "static/media/findmafu2.png": "/LBigentini/static/media/findmafu2.1879726a65fb7964698c.png",
+    "static/media/ladder4.png": "/LBigentini/static/media/ladder4.3a85eecbc9816c85ba5b.png",
     "static/media/findmafu1.png": "/LBigentini/static/media/findmafu1.e2f25601a0976d070629.png",
     "static/media/mafuteru4.png": "/LBigentini/static/media/mafuteru4.78c5296f58937591d562.png",
     "static/media/cookie1.png": "/LBigentini/static/media/cookie1.b6e66e5efbcfe76edbbf.png",
     "static/media/cookie2.png": "/LBigentini/static/media/cookie2.e0c6da0971ee0aef5af4.png",
     "static/media/cookie5.png": "/LBigentini/static/media/cookie5.7e7e5e5f611a3a379b71.png",
     "static/media/cookie3.png": "/LBigentini/static/media/cookie3.78390dd952e8e44f506a.png",
+    "static/media/ladder2.png": "/LBigentini/static/media/ladder2.89e8822906fa4541c02e.png",
+    "static/media/ladder1.png": "/LBigentini/static/media/ladder1.09c454254281fee989ab.png",
+    "static/media/ladder5.png": "/LBigentini/static/media/ladder5.1e8c6d46672c5a408664.png",
     "static/media/ballpit3.png": "/LBigentini/static/media/ballpit3.9a1c0ce90de80e1fa512.png",
     "static/media/pieces6.png": "/LBigentini/static/media/pieces6.4aaa3d355471d1198384.png",
     "static/media/ballpit1.png": "/LBigentini/static/media/ballpit1.575f54ffe008b9821aad.png",
     "static/media/mafuteru5.png": "/LBigentini/static/media/mafuteru5.db19a0a78a0b1ae4cbca.png",
     "static/media/pieces10.png": "/LBigentini/static/media/pieces10.55d2dfb7dc8538ba9e84.png",
+    "static/media/ladder3.png": "/LBigentini/static/media/ladder3.a09f096185162b8d3169.png",
     "static/media/pieces9.png": "/LBigentini/static/media/pieces9.a6c7636231d634d52b40.png",
     "static/media/ttt4.png": "/LBigentini/static/media/ttt4.a277cb290b43c5580cc9.png",
     "static/media/pieces7.png": "/LBigentini/static/media/pieces7.796ba4c274e397b3e569.png",
@@ -79,12 +84,12 @@
     "static/media/pong2.png": "/LBigentini/static/media/pong2.a3ee2cb08c27026d00f1.png",
     "static/media/space3.png": "/LBigentini/static/media/space3.65c6c735537577374517.png",
     "index.html": "/LBigentini/index.html",
-    "main.a3e79378.css.map": "/LBigentini/static/css/main.a3e79378.css.map",
-    "main.16955d99.js.map": "/LBigentini/static/js/main.16955d99.js.map",
+    "main.9393bcc4.css.map": "/LBigentini/static/css/main.9393bcc4.css.map",
+    "main.d02f3738.js.map": "/LBigentini/static/js/main.d02f3738.js.map",
     "453.ace21015.chunk.js.map": "/LBigentini/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3e79378.css",
-    "static/js/main.16955d99.js"
+    "static/css/main.9393bcc4.css",
+    "static/js/main.d02f3738.js"
   ]
 }
