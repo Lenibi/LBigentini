@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LBigentini/static/css/main.d19b4f17.css",
-    "main.js": "/LBigentini/static/js/main.6518bb81.js",
+    "main.css": "/LBigentini/static/css/main.e34af0a7.css",
+    "main.js": "/LBigentini/static/js/main.155858ba.js",
     "static/js/453.ace21015.chunk.js": "/LBigentini/static/js/453.ace21015.chunk.js",
     "static/media/findmafu2.png": "/LBigentini/static/media/findmafu2.1879726a65fb7964698c.png",
     "static/media/ladder4.png": "/LBigentini/static/media/ladder4.3a85eecbc9816c85ba5b.png",
@@ -53,6 +53,7 @@
     "static/media/ttt5.png": "/LBigentini/static/media/ttt5.ea4877c16efab9c63486.png",
     "static/media/amongWeb4.png": "/LBigentini/static/media/amongWeb4.b2fb444575f1e2017771.png",
     "static/media/amongWeb1.png": "/LBigentini/static/media/amongWeb1.9e1b8a539834edd89c73.png",
+    "static/media/VRHeadset.png": "/LBigentini/static/media/VRHeadset.d24d54038abc5db706b2.png",
     "static/media/wave2.png": "/LBigentini/static/media/wave2.05faf435d04ba3f929ff.png",
     "static/media/timer4.png": "/LBigentini/static/media/timer4.80f103fdbb40faf0214e.png",
     "static/media/ttt2.png": "/LBigentini/static/media/ttt2.3e806c8a47b71f3b4d59.png",
@@ -67,7 +68,6 @@
     "static/media/amongWeb6.png": "/LBigentini/static/media/amongWeb6.d266f5741b7e4e39624d.png",
     "static/media/asteroids1.png": "/LBigentini/static/media/asteroids1.181c8a4507052ec05b43.png",
     "static/media/amongWeb2.png": "/LBigentini/static/media/amongWeb2.63ad5b55fb611a9c8153.png",
-    "static/media/cube.png": "/LBigentini/static/media/cube.3db62c00a91e9e4ab676.png",
     "static/media/react2.png": "/LBigentini/static/media/react2.3d13ec39fd4f58e76f0a.png",
     "static/media/react3.png": "/LBigentini/static/media/react3.16d4aff5bfb9e7947a3b.png",
     "static/media/asteroids2.png": "/LBigentini/static/media/asteroids2.14adc439cb2a4e005b68.png",
@@ -84,12 +84,12 @@
     "static/media/pong2.png": "/LBigentini/static/media/pong2.a3ee2cb08c27026d00f1.png",
     "static/media/space3.png": "/LBigentini/static/media/space3.65c6c735537577374517.png",
     "index.html": "/LBigentini/index.html",
-    "main.d19b4f17.css.map": "/LBigentini/static/css/main.d19b4f17.css.map",
-    "main.6518bb81.js.map": "/LBigentini/static/js/main.6518bb81.js.map",
+    "main.e34af0a7.css.map": "/LBigentini/static/css/main.e34af0a7.css.map",
+    "main.155858ba.js.map": "/LBigentini/static/js/main.155858ba.js.map",
     "453.ace21015.chunk.js.map": "/LBigentini/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d19b4f17.css",
-    "static/js/main.6518bb81.js"
+    "static/css/main.e34af0a7.css",
+    "static/js/main.155858ba.js"
   ]
 }
