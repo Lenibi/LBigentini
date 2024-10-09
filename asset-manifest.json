@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LBigentini/static/css/main.bfdad7a8.css",
-    "main.js": "/LBigentini/static/js/main.96a68153.js",
+    "main.css": "/LBigentini/static/css/main.543971c6.css",
+    "main.js": "/LBigentini/static/js/main.480f0087.js",
     "static/js/453.ace21015.chunk.js": "/LBigentini/static/js/453.ace21015.chunk.js",
     "static/media/findmafu2.png": "/LBigentini/static/media/findmafu2.1879726a65fb7964698c.png",
     "static/media/ladder4.png": "/LBigentini/static/media/ladder4.3a85eecbc9816c85ba5b.png",
@@ -84,12 +84,12 @@
     "static/media/pong2.png": "/LBigentini/static/media/pong2.a3ee2cb08c27026d00f1.png",
     "static/media/space3.png": "/LBigentini/static/media/space3.65c6c735537577374517.png",
     "index.html": "/LBigentini/index.html",
-    "main.bfdad7a8.css.map": "/LBigentini/static/css/main.bfdad7a8.css.map",
-    "main.96a68153.js.map": "/LBigentini/static/js/main.96a68153.js.map",
+    "main.543971c6.css.map": "/LBigentini/static/css/main.543971c6.css.map",
+    "main.480f0087.js.map": "/LBigentini/static/js/main.480f0087.js.map",
     "453.ace21015.chunk.js.map": "/LBigentini/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfdad7a8.css",
-    "static/js/main.96a68153.js"
+    "static/css/main.543971c6.css",
+    "static/js/main.480f0087.js"
   ]
 }
